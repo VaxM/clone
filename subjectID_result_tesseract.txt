@@ -1,0 +1,278 @@
+OCR Evaluation Results:
+==================================================
+File: 10_SubjectID.tif
+Ground Truth: BIO1.002
+OCR Output: BIO1.002
+Accuracy: 100.00%
+--------------------------------------------------
+File: 11_SubjectID.tif
+Ground Truth: PHY1.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 12_SubjectID.tif
+Ground Truth: MAT1.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 13_SubjectID.tif
+Ground Truth: CHE1.004
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 14_SubjectID.tif
+Ground Truth: ICT1.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 15_SubjectID.tif
+Ground Truth: ICT2.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 16_SubjectID.tif
+Ground Truth: ICT1.003
+OCR Output: ICT1..003
+Accuracy: 75.00%
+--------------------------------------------------
+File: 17_SubjectID.tif
+Ground Truth: MAT1.003
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 18_SubjectID.tif
+Ground Truth: MS2.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 19_SubjectID.tif
+Ground Truth: PHY1.004
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 1_SubjectID.tif
+Ground Truth: MS1.001
+OCR Output: MS1.001
+Accuracy: 100.00%
+--------------------------------------------------
+File: 20_SubjectID.tif
+Ground Truth: PHY1.003
+OCR Output: IISICCT1I04.000
+Accuracy: 0.00%
+--------------------------------------------------
+File: 21_SubjectID.tif
+Ground Truth: PHY1.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 22_SubjectID.tif
+Ground Truth: MAT1.004
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 23_SubjectID.tif
+Ground Truth: MS2.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 24_SubjectID.tif
+Ground Truth: MS3.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 25_SubjectID.tif
+Ground Truth: ICT3.006
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 26_SubjectID.tif
+Ground Truth: ICT2.004
+OCR Output: ICT2.004
+Accuracy: 100.00%
+--------------------------------------------------
+File: 27_SubjectID.tif
+Ground Truth: ICT2.014
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 28_SubjectID.tif
+Ground Truth: DS2.003
+OCR Output: D.000.00.0,
+Accuracy: 28.57%
+--------------------------------------------------
+File: 29_SubjectID.tif
+Ground Truth: ICT3.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 2_SubjectID.tif
+Ground Truth: MS1.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 30_SubjectID.tif
+Ground Truth: ICT3.017
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 31_SubjectID.tif
+Ground Truth: ICT2.018
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 32_SubjectID.tif
+Ground Truth: ICT2.017
+OCR Output: ICT2.017
+Accuracy: 100.00%
+--------------------------------------------------
+File: 33_SubjectID.tif
+Ground Truth: DS2.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 34_SubjectID.tif
+Ground Truth: DS2.004
+OCR Output: DS2.004
+Accuracy: 100.00%
+--------------------------------------------------
+File: 35_SubjectID.tif
+Ground Truth: DS2.004
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 36_SubjectID.tif
+Ground Truth: DS2.005
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 37_SubjectID.tif
+Ground Truth: CS2.003
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 38_SubjectID.tif
+Ground Truth: CS2.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 39_SubjectID.tif
+Ground Truth: DS3.006
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 3_SubjectID.tif
+Ground Truth: BIO1.001
+OCR Output: BIO1.001
+Accuracy: 100.00%
+--------------------------------------------------
+File: 40_SubjectID.tif
+Ground Truth: DS3.003
+OCR Output: DS3.003
+Accuracy: 100.00%
+--------------------------------------------------
+File: 41_SubjectID.tif
+Ground Truth: DS3.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 42_SubjectID.tif
+Ground Truth: MS2.006
+OCR Output: MS2.006
+Accuracy: 100.00%
+--------------------------------------------------
+File: 43_SubjectID.tif
+Ground Truth: CS3.009
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 44_SubjectID.tif
+Ground Truth: CS3.010
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 45_SubjectID.tif
+Ground Truth: CS3.006
+OCR Output: CS3.006
+Accuracy: 100.00%
+--------------------------------------------------
+File: 46_SubjectID.tif
+Ground Truth: CH2.003
+OCR Output: THSW20030854
+Accuracy: 28.57%
+--------------------------------------------------
+File: 47_SubjectID.tif
+Ground Truth: BIT1.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 48_SubjectID.tif
+Ground Truth: CH3.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 49_SubjectID.tif
+Ground Truth: BIT1.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 4_SubjectID.tif
+Ground Truth: CHE1.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 50_SubjectID.tif
+Ground Truth: FST1.003
+OCR Output: o.....800.144
+Accuracy: 12.50%
+--------------------------------------------------
+File: 51_SubjectID.tif
+Ground Truth: FST2.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 52_SubjectID.tif
+Ground Truth: FST3.016
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 53_SubjectID.tif
+Ground Truth: AES1.004
+OCR Output: 1I510.0.1....040..1.
+Accuracy: 25.00%
+--------------------------------------------------
+File: 54_SubjectID.tif
+Ground Truth: AES2.003
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 55_SubjectID.tif
+Ground Truth: AES3.017
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 5_SubjectID.tif
+Ground Truth: ICT1.001
+OCR Output: ICT1.001
+Accuracy: 100.00%
+--------------------------------------------------
+File: 6_SubjectID.tif
+Ground Truth: MAT1.001
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 7_SubjectID.tif
+Ground Truth: CHE1.002
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 8_SubjectID.tif
+Ground Truth: CHE1.003
+OCR Output: 
+Accuracy: 0.00%
+--------------------------------------------------
+File: 9_SubjectID.tif
+Ground Truth: BIO1.002
+OCR Output: BIO1.002
+Accuracy: 100.00%
+--------------------------------------------------
+Overall Accuracy: 23.08%
